@@ -1,2 +1,2 @@
-# PortfolioWebsite
-A website showcasing my work.
+# Dottedi Accounting
+A mock accounting firm website.
